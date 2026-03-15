@@ -15,7 +15,7 @@ If you like this project or want to collaborate, feel free to connect with me.
 
 -  LinkedIn: https://www.linkedin.com/in/hereprasanth
 -  X: https://x.com/here_prasanth01
--  Instagram: https://www.instagram.com/techoftown_
+-  Instagram: https://www.instagram.com/techoftown_/
 -  YouTube: https://www.youtube.com/@TechOfTown
 -  GitHub: https://github.com/prasanth-techoftown
 
