@@ -1,0 +1,47 @@
+```
+└── 📁app
+    └── 📁api
+        └── 📁contact
+            ├── route.js
+        └── 📁google
+            ├── route.js
+    └── 📁blog
+        └── 📁[slug]
+            ├── page.js
+        ├── page.js
+    └── 📁components
+        └── 📁helper
+            ├── animation-lottie.jsx
+            ├── glow-card.jsx
+            ├── scroll-to-top.jsx
+        └── 📁homepage
+            └── 📁about
+                ├── index.jsx
+            └── 📁blog
+                ├── blog-card.jsx
+                ├── index.jsx
+            └── 📁contact
+                ├── contact-with-captcha.jsx
+                ├── contact-without-captcha.jsx
+                ├── index.jsx
+            └── 📁education
+                ├── index.jsx
+            └── 📁experience
+                ├── index.jsx
+            └── 📁hero-section
+                ├── index.jsx
+            └── 📁projects
+                ├── index.jsx
+                ├── project-card.jsx
+                ├── single-project.jsx
+            └── 📁skills
+                ├── index.jsx
+        ├── footer.jsx
+        ├── navbar.jsx
+    └── 📁css
+        ├── card.scss
+        ├── globals.scss
+    ├── layout.js
+    ├── page.js
+    └── robots.js
+```
