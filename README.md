@@ -6,11 +6,29 @@ This project showcases projects, skills, and developer experience while maintain
 The goal of this repository is to help developers understand how a modern **Next.js portfolio application** is structured and deployed.
 
 ---
+---
+
+# 🌐 Connect With Me
+
+If you like this project or want to collaborate, feel free to connect with me.
+
+
+-  LinkedIn: https://www.linkedin.com/in/hereprasanth
+-  X: https://x.com/here_prasanth01
+-  Instagram: https://www.instagram.com/techoftown_
+-  YouTube: https://www.youtube.com/@TechOfTown
+-  GitHub: https://github.com/prasanth-techoftown
+
+---
+
+⭐ If this project helped you, consider giving it a **star** on GitHub. 
+
+
 
 # 🚀 Tech Stack
 
 - **Framework:** Next.js  
-- **Language:** TypeScript  
+- **Language:** Javascript  
 - **Styling:** TailwindCSS + SCSS  
 - **Icons:** Lucide React, React Icons  
 - **Animations:** Lottie React  
@@ -50,8 +68,8 @@ npm install -g pnpm
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/prasanth-portfolio.git
-cd prasanth-portfolio
+git clone https://github.com/your-username/Project-Portfolio-opensourced.git
+cd Project-Portfolio-opensourced
 ```
 
 ---
@@ -64,7 +82,19 @@ pnpm install
 
 ---
 
-## 4. Environment Variables
+
+---
+
+## 3.Run The Project
+
+```bash
+pnpm run dev
+```
+
+---
+
+
+## 4. Environment Variables(Optional First Run the Project)
 
 Create a `.env.local` file in the root directory and add the following variables.
 
