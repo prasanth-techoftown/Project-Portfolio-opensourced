@@ -6,7 +6,7 @@ This project showcases projects, skills, and developer experience while maintain
 The goal of this repository is to help developers understand how a modern **Next.js portfolio application** is structured and deployed.
 
 ---
----
+
 
 # 🌐 Connect With Me
 
